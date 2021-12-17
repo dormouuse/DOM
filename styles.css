@@ -1,0 +1,30 @@
+body{
+    background-color: #F9C5D5;
+}
+
+.wrapper {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+    font-size: 96 px;
+    color: #F2789F;
+}
+
+.dice {
+    margin: 0px 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+p {
+    font-size: 40px;
+    color: #F2789F;
+}
+
+img {
+    width: 320px;
+}
